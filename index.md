@@ -20,7 +20,7 @@ The objective of the STAND workshop is
 - to share experience on the impact on the research activities when lacking good practices
 - to collect existing good practices (and propose new ones)
 
-We invite contributions from NLP practioners from both the industry and academia, as well as standardization experts.
+We invite contributions from NLP practitioners from both the industry and academia, as well as standardization experts.
 
 See the [call for contributions](https://stand4nlp.github.io/Call-for-contributions/).
 
