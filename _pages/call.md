@@ -4,4 +4,5 @@ permalink: /Call-for-contributions/
 title: Call for contributions
 ---
 
-tba
+# STAND Workshop on Standardizing Tasks, meAsures and NLP Datasets
+
