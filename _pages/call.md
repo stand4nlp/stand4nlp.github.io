@@ -32,7 +32,9 @@ Submission instructions:
 
 Important dates:
 
-- tba
+- Submission deadline: anytime by January 24
+- Notification of acceptance: within a few days of submission
+
 
 
 
