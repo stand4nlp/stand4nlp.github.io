@@ -5,7 +5,7 @@ title: Important dates
 ---
 
 
-* Submission deadline: 24th December (midnight AOE)
+* Submission deadline: **anytime by January 24**
+* Notification of acceptance: within a few days of submission
+* Workshop: **29th January 2024**
 * Registration deadline: tba
-* Notification of acceptance: 3rd January
-* Workshop: 29th January 2024
