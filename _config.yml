@@ -12,7 +12,7 @@ name: STAND
 description: The first workshop on standardization for NLP
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/stand4nlp_5.jpg
+avatar:
 
 #
 # Flags below are optional
