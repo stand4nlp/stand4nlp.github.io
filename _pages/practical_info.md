@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Practical-info
-title: Practical-info
+title: Practical info
 ---
 
 # Venue (hybrid)
@@ -10,7 +10,7 @@ Inria Paris, 2 rue Simone Iff, 75012 Paris, France
 
 Remote access will be offered for part of the workshop only. In-person participation is recommended if possible.
 
-# Accomodation
+# Accommodation
 
 The following hotel is located in the immediate vicinity to the venue:
 
