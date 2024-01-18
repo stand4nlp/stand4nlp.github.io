@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Call-for-contributions/
+permalink: /Call-for-contributions
 title: Call for contributions
 ---
 

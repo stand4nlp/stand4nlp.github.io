@@ -22,7 +22,7 @@ The objective of the STAND workshop is
 
 We invite contributions from NLP practitioners from both the industry and academia, as well as standardization experts.
 
-See the [call for contributions](https://stand4nlp.github.io/Call-for-contributions/).
+See the [call for contributions](https://stand4nlp.github.io/Call-for-contributions).
 
 
 
