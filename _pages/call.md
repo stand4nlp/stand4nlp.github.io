@@ -32,5 +32,5 @@ Submission instructions:
 
 Important dates:
 
-- Submission deadline: anytime by January 24
+- Submission deadline: anytime by January 24 (Anywhere on Earth)
 - Notification of acceptance: within a few days of submission
