@@ -32,7 +32,7 @@ title: Program
 
 An informal dinner will be organized with participants staying overnight.
 
-### January 30: meeting of the European AI standardization committee about NLP standardization
+### January 30: meeting of the [European AI standardization committee](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) about NLP standardization
 
 Workshop participants are invited to stay to contribute any insight. The outputs of that meeting will be used in direct support of the [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206), according to [the European Commission's mandate](https://ec.europa.eu/growth/tools-databases/enorm/mandate/593_en).
 
