@@ -16,15 +16,16 @@ title: Program
 - [11:40-13:00] Poster session & lunch
 - [13:00-13:30] Invited talk: [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
     - Measurement Error: Are we Evaluating the Right Things?
-- [13:45-15:00] TBC
-- [15:00-16:30] Moderator-led breakout discussions. Potential topics that will be discussed include:
-    - [sharing / drafting] Standardizing good practices for evaluation
-    - [sharing / drafting] Standardizing good practices for corpus management (collection, annotation, versioning)
-    - [sharing / drafting] Standardizing evaluation metrics (definitions, implementation, sharing scripts)
-    - [sharing / drafting] Standardizing annotation schemes (formats and guidelines)
-    - [debate] Explainability and ethics in NLP: what needs for standards?
-    - [debate] Comparing standardization needs with limitations of the state-of-the-art: how to bridge the gap?
-    - [debate] Towards standardizing translations of technical terminology in NLP: how to organize i18n?
+- [13:45-14:00] TBC
+- [14:00-16:30] Moderator-led breakout discussions, 3 slots (14:00-14:45, 14:45-15:30, 15:45-16:30).
+    - Room 1:
+      - [sharing / drafting] Standardizing good practices for evaluation
+      - [sharing / drafting] Standardizing evaluation metrics (definitions, implementation, sharing scripts)
+      - [debate] Explainability and ethics in NLP: what needs for standards?
+    - Room 2:
+      - [sharing / drafting] Standardizing good practices for corpus management (collection, annotation, versioning)
+      - [sharing / drafting] Standardizing annotation schemes (formats and guidelines)
+      - [debate] Towards standardizing translations of technical terminology in NLP: how to organize i18n?
 - [16:30-17:30] Reports from breakouts, definition of community-level actions & wrap-up. Example outcomes that are envisioned include:
     - Collection and drafting of existing good practices
     - Preparation of a joint submission for a position paper
