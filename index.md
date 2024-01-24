@@ -23,7 +23,7 @@ The objective of the STAND workshop is
 
 We invite contributions from NLP practitioners from both the industry and academia, as well as standardization experts.
 
-See the [call for contributions](https://stand4nlp.github.io/Call-for-contributions).
+See the [call for contributions](https://stand4nlp.github.io/Call-for-contributions) and the [program](https://stand4nlp.github.io/Program).
 
 
 
@@ -32,34 +32,14 @@ See the [call for contributions](https://stand4nlp.github.io/Call-for-contributi
 - [Joakim Nivre](https://jnivre.github.io)
 - [Matt Post](https://post3.net)
 - [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
-- TBC
-- TBC
 
-# Program
 
-### January 29: STAND workshop
+# Organizing committee
 
-- [09:00-10:00] Welcome, introduction to standardization, ongoing activities in NLP standardization, and the AI Act context
-- [10:15-11:50] Academic keynote (Joakim Nivre) and invited talks (Matt Post, speaker TBC)
-- [11:50-13:30] Poster session (with boosters) & lunch
-- [13:30-14:40] Industry keynote (speaker TBC) and invited talk (Dirk Hovy)
-- [15:00-16:30] Moderator-led breakout discussions. Potential topics that will be discussed include:
-    - [sharing / drafting] Standardizing good practices for evaluation
-    - [sharing / drafting] Standardizing good practices for corpus management (collection, annotation, versioning)
-    - [sharing / drafting] Standardizing evaluation metrics (definitions, implementation, sharing scripts)
-    - [sharing / drafting] Standardizing annotation schemes (formats and guidelines)
-    - [debate] Explainability and ethics in NLP: what needs for standards?
-    - [debate] Comparing standardization needs with limitations of the state-of-the-art: how to bridge the gap?
-    - [debate] Towards standardizing translations of technical terminology in NLP: how to organize i18n?
-- [16:30-17:30] Reports from breakouts, definition of community-level actions & wrap-up. Example outcomes that are envisioned include:
-    - Collection and drafting of existing good practices
-    - Preparation of a joint submission for a position paper
-    - Creation of common repositories for evaluation scripts, corpus documentation
-
-An informal dinner will be organized with participants staying overnight.
-
-### January 30: all-day meeting of the European AI standardization committee about NLP standardization
-
-Workshop participants are invited to stay to contribute any insight. The outputs of that meeting will be used in direct support of the EU AI Act, according to the European Commission's mandate.
-
-Detailed program tba.
+* Lauriane Aufrant, Inria
+* Rania Wazir, leiwand.ai
+* Timothée Bernard, Université Paris Cité, LLF
+* Taras Holoyad, BNetzA
+* Yoann Dupont, Université Sorbonne Nouvelle
+* Maximin Coavoux, CNRS, LIG
+* Arnaud Ferré, Inrae, MAIAGE
