@@ -49,6 +49,6 @@ Workshop participants are invited to stay to contribute any insight. The outputs
     - [Sources](https://compass.onlinelibrary.wiley.com/doi/10.1111/lnc3.12432), mitigations, metrics?
 - [14:00-14:30] Preparing inputs to [ISO/IEC TR 23281](https://www.iso.org/standard/88870.html)
     - *Artificial intelligence — Overview of AI tasks and functionalities related to natural language processing*
-- [15:00-16:00] Addressing (the AI Act requirements on general-purpose AI models)[https://www.linkedin.com/feed/update/urn:li:activity:7155091883872964608/]: let's be creative
+- [15:00-16:00] Addressing [the AI Act requirements on general-purpose AI models](https://www.linkedin.com/feed/update/urn:li:activity:7155091883872964608/): let's be creative
 - [16:00-18:00] Roadmapping NLP standardization: searching for blind spots
     - Documentation? Annotation process?
