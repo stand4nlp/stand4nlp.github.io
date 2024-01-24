@@ -45,6 +45,7 @@ Workshop participants are invited to stay to contribute any insight. The outputs
     - Building a collaborative taxonomy
 - [11:30-13:00] Lunch break
 - [13:00-14:00] New standardization needs: bias in NLP?
+    - [https://compass.onlinelibrary.wiley.com/doi/10.1111/lnc3.12432](Sources), mitigations, metrics?
 - [14:00-14:30] Preparing inputs to [ISO/IEC TR 23281](https://www.iso.org/standard/88870.html)
     - *Artificial intelligence — Overview of AI tasks and functionalities related to natural language processing*
 - [15:00-16:00] Addressing (the AI Act requirements on general-purpose AI models)[https://www.linkedin.com/feed/update/urn:li:activity:7155091883872964608/]: let's be creative
