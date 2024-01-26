@@ -11,7 +11,7 @@ title: Program
 - [10:15-11:00] Keynote: [Joakim Nivre](https://jnivre.github.io)
     - Towards a Standard for Morphosyntactic Annotation: The Universal Dependencies Experience
 - [11:00-11:30] Invited talk: [Matt Post](https://post3.net)
-    - TBA
+    - Setting parameters for metrics: a few ideas for creating a thriving and useful metric ecosystem
 - [11:30-11:40] Poster boosters
 - [11:40-13:00] Poster session & lunch
 - [13:00-13:30] Invited talk: [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
