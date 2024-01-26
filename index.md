@@ -32,6 +32,7 @@ See the [call for contributions](https://stand4nlp.github.io/Call-for-contributi
 - [Joakim Nivre](https://jnivre.github.io)
 - [Matt Post](https://post3.net)
 - [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
+- [APIL](https://www.apil-asso.fr/) (French association of NLP companies)
 
 
 # Organizing committee

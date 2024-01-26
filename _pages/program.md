@@ -8,7 +8,7 @@ title: Program
 
 - [09:00-09:10] Welcome & logistics
 - [09:10-10:10] Introduction to standardization, ongoing activities in NLP standardization, and the AI Act context
-- [10:15-11:00] Academic keynote: [Joakim Nivre](https://jnivre.github.io)
+- [10:15-11:00] Keynote: [Joakim Nivre](https://jnivre.github.io)
     - Towards a Standard for Morphosyntactic Annotation: The Universal Dependencies Experience
 - [11:00-11:30] Invited talk: [Matt Post](https://post3.net)
     - TBA
@@ -16,7 +16,7 @@ title: Program
 - [11:40-13:00] Poster session & lunch
 - [13:00-13:30] Invited talk: [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
     - Measurement Error: Are we Evaluating the Right Things?
-- [13:45-14:00] TBC
+- [13:45-14:00] Invited talk: [APIL](https://www.apil-asso.fr/) (French association of NLP companies)
 - [14:00-16:30] Moderator-led breakout discussions, 3 slots (14:00-14:45, 14:45-15:30, 15:45-16:30).
     - Room 1:
       - [sharing / drafting] Standardizing good practices for evaluation
@@ -25,7 +25,7 @@ title: Program
     - Room 2:
       - [sharing / drafting] Standardizing good practices for corpus management (collection, annotation, versioning)
       - [sharing / drafting] Standardizing annotation schemes (formats and guidelines)
-      - [debate] Towards standardizing translations of technical terminology in NLP: how to organize i18n?
+      - [debate] Comparing standardization needs with limitations of the state-of-the-art: how to bridge the gap?
 - [16:30-17:30] Reports from breakouts, definition of community-level actions & wrap-up. Example outcomes that are envisioned include:
     - Collection and drafting of existing good practices
     - Preparation of a joint submission for a position paper
