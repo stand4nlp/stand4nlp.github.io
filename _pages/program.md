@@ -14,9 +14,14 @@ title: Program
     - Setting parameters for metrics: a few ideas for creating a thriving and useful metric ecosystem
 - [11:30-11:40] Poster boosters
 - [11:40-13:00] Poster session & lunch
+    - Annotated corpora through time: a case study on NER (Yoann Dupont)
+    - Assessing the performance of LLMs: the problem of emergent abilities (Céline Budding)
+    - Fine-Tuning Llama 2: Evaluating Text Generation with Cosine Similarity and Human Assessment (Alina Lozovskaya)
+    - Human Evaluation of English to Hindi Machine Translation Output (Aditi Agarwal)
+    - Standardization challenges to a better evaluation in entity normalization (Arnaud Ferré)
 - [13:00-13:30] Invited talk: [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
     - Measurement Error: Are we Evaluating the Right Things?
-- [13:45-14:00] Invited talk: [APIL](https://www.apil-asso.fr/) (French association of NLP companies)
+- [13:45-14:00] Invited talk: [APIL](https://www.apil-asso.fr/) (French association of NLP industry)
 - [14:00-16:30] Moderator-led breakout discussions, 3 slots (14:00-14:45, 14:45-15:30, 15:45-16:30).
     - Room 1:
       - [sharing / drafting] Standardizing good practices for evaluation
