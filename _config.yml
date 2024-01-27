@@ -9,7 +9,7 @@ name: STAND
 #author: STAND
 
 # Short bio or description (displayed in the header)
-description: The first workshop on standardization for NLP
+description: The first workshop on Standardizing Tasks, meAsures and NLP Datasets
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/STAND4NLP_6.png
@@ -26,11 +26,11 @@ footer-links:
   flickr:
   github:
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss: rss
   twitter:
-  stackoverflow: 
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
@@ -38,7 +38,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -99,4 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
