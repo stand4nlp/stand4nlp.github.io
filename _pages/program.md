@@ -4,6 +4,8 @@ permalink: Program
 title: Program
 ---
 
+All timeslots are CET (UTC+1).
+
 ### January 29: STAND workshop
 
 - [09:00-09:10] Welcome & logistics
@@ -35,7 +37,7 @@ title: Program
     - Preparation of a joint submission for a position paper
     - Creation of common repositories for evaluation scripts, corpus documentation
 
-An informal dinner will be organized with participants staying overnight.
+An informal dinner will be organized with participants staying overnight: 19:00 at Le Viaduc, 43 avenue Daumesnil, 75012 Paris, France.
 
 ### January 30: meeting of the [European AI standardization committee](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) about NLP standardization
 

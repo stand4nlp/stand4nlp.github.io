@@ -24,4 +24,4 @@ Appart'City Collection Paris Gare de Lyon, 114 Avenue Daumesnil, 75012 Paris, Fr
 
 Lunch will be offered at the venue on January 29.
 
-An informal self-paid dinner will be organized with interested participants in the evening of January 29.
+An informal self-paid dinner will be organized with interested participants in the evening of January 29. The restaurant is Le Viaduc, 43 avenue Daumesnil, 75012 Paris, France.
