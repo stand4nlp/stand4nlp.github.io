@@ -17,7 +17,6 @@ title: Program
     - [Annotated corpora through time: a case study on NER (Yoann Dupont)](abstracts/stand_dupont.pdf)
     - [Assessing the performance of LLMs: the problem of emergent abilities (Céline Budding)](abstracts/stand_budding.pdf)
     - [Fine-Tuning Llama 2: Evaluating Text Generation with Cosine Similarity and Human Assessment (Alina Lozovskaya)](abstracts/stand_lozovskaya.pdf)
-    - Human Evaluation of English to Hindi Machine Translation Output (Aditi Agarwal)
     - [Standardization challenges to a better evaluation in entity normalization (Arnaud Ferré)](abstracts/stand_ferre.pdf)
 - [13:00-13:30] Invited talk: [Dirk Hovy](https://cs.unibocconi.eu/people/dirk-hovy)
     - Measurement Error: Are we Evaluating the Right Things?
